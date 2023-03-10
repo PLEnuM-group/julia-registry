@@ -4,3 +4,4 @@ repo = "git@github.com:PLEnuM-group/julia-registry.git"
 description = "PLEnUM local registry for Julia packages"
 
 [packages]
+aacfb283-0df6-49c4-85a4-270b72c3b0a9 = { name = "PhysicsTools", path = "P/PhysicsTools" }
