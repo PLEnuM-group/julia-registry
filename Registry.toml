@@ -4,4 +4,5 @@ repo = "git@github.com:PLEnuM-group/julia-registry.git"
 description = "PLEnUM local registry for Julia packages"
 
 [packages]
+41f40801-0ef4-4c1e-8920-1ad3d0975ff3 = { name = "PMTSimulation", path = "P/PMTSimulation" }
 aacfb283-0df6-49c4-85a4-270b72c3b0a9 = { name = "PhysicsTools", path = "P/PhysicsTools" }
