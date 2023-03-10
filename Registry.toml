@@ -1,0 +1,6 @@
+name = "PLEnuM-registry"
+uuid = "7197df97-4db2-493e-ad31-852b32964bfb"
+repo = "git@github.com:PLEnuM-group/julia-registry.git"
+description = "PLEnUM local registry for Julia packages"
+
+[packages]
