@@ -5,4 +5,9 @@ FastGaussQuadrature = "0.4"
 Reexport = "1"
 Roots = "2"
 StaticArrays = "1"
+
+["0-0.4.2"]
 julia = "1.8.0-1"
+
+["0.4.3-0"]
+julia = "1.9.0-1"
