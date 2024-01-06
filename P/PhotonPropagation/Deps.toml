@@ -28,3 +28,8 @@ StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
 StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"
 TerminalLoggers = "5d786b92-1e48-4d6f-9151-6b4477ca9bed"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+
+["0.4-0"]
+LLVM = "929cbde3-209d-540e-8aea-75f648917ca0"
+Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
