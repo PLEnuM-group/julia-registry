@@ -18,6 +18,11 @@ julia = "1.9.0-1"
 FastGaussQuadrature = "0.4-0.5"
 Polynomials = "3"
 
-["0.5.2-0"]
+["0.5.2"]
 FastGaussQuadrature = ["0.5", "1"]
+
+["0.5.2-0"]
 Polynomials = "3-4"
+
+["0.5.3-0"]
+FastGaussQuadrature = ["0.4-0.5", "1"]
