@@ -22,8 +22,10 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 ["0.5.1-0.5"]
 Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
 
+["0.6"]
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+
 ["0.6-0"]
 CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
 PreferenceTools = "ba661fbb-e901-4445-b070-854aec6bfbc5"
-PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
