@@ -33,3 +33,6 @@ Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 LLVM = "929cbde3-209d-540e-8aea-75f648917ca0"
 Polynomials = "f27b6e38-b328-58d1-80ce-0feddd5e7a45"
 PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+
+["0.6-0"]
+AbstractMediumProperties = "62ded331-ac74-4432-90fd-7fafc84e95f4"
