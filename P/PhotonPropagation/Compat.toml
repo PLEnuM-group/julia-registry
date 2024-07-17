@@ -16,3 +16,6 @@ Unitful = "1.19.0-1"
 
 ["0.7.1-0"]
 Parquet = "0.8"
+
+["0.7.2-0"]
+AbstractMediumProperties = "1.3.1-1"
