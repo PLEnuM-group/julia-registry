@@ -1,17 +1,19 @@
 [0]
-DataStructures = "0.18"
-Distributions = "0.25"
 Reexport = "1"
 Roots = "2"
 StaticArrays = "1"
 
-["0-0.4.2"]
+["0 - 0.4.2"]
 julia = "1.8.0-1"
 
-["0-0.5.0"]
+["0 - 0.5.0"]
 FastGaussQuadrature = "0.4"
 
-["0.4.3-0"]
+["0 - 0.8.0"]
+DataStructures = "0.18"
+Distributions = "0.25"
+
+["0.4.3 - 0.8.0"]
 julia = "1.9.0-1"
 
 ["0.5.1"]
@@ -21,8 +23,13 @@ Polynomials = "3"
 ["0.5.2"]
 FastGaussQuadrature = ["0.5", "1"]
 
-["0.5.2-0"]
+["0.5.2 - 0.8.0"]
 Polynomials = "3-4"
 
-["0.5.3-0"]
+["0.5.3 - 0.8.0"]
 FastGaussQuadrature = ["0.4-0.5", "1"]
+
+["0.8.1 - 0"]
+FastGaussQuadrature = ["0.4 - 0.5", "1"]
+Polynomials = "3 - 4"
+julia = "1.9.0 - 1"
