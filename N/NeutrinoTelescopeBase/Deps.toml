@@ -1,0 +1,8 @@
+[1]
+CherenkovMediumBase = "62ded331-ac74-4432-90fd-7fafc84e95f4"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PhysicsTools = "aacfb283-0df6-49c4-85a4-270b72c3b0a9"
+Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StructTypes = "856f2bd8-1eba-4b0a-8007-ebc267875bd4"

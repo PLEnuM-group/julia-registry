@@ -8,5 +8,6 @@ description = "PLEnUM local registry for Julia packages"
 41f40801-0ef4-4c1e-8920-1ad3d0975ff3 = { name = "PMTSimulation", path = "P/PMTSimulation" }
 434b49a6-8807-4413-9a8c-b0051c6fc167 = { name = "NeutrinoSurrogateModelData", path = "N/NeutrinoSurrogateModelData" }
 8372f62b-f115-4e45-9f79-62bd8ab92e0d = { name = "PhotonSurrogateModel", path = "P/PhotonSurrogateModel" }
+9182eb0e-ad1b-4ada-ad60-da5baaac409e = { name = "NeutrinoTelescopeBase", path = "N/NeutrinoTelescopeBase" }
 aacfb283-0df6-49c4-85a4-270b72c3b0a9 = { name = "PhysicsTools", path = "P/PhysicsTools" }
 c0cb64ec-bfa4-4a12-9422-e219a9596072 = { name = "ProposalInterface", path = "P/ProposalInterface" }
