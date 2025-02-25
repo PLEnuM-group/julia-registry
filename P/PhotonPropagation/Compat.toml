@@ -28,3 +28,6 @@ CherenkovMediumBase = "1"
 PhysicsTools = "0.8"
 Unitful = "1.19.0 - 1"
 julia = "1.11.0 - 1"
+
+["0.9 - 0"]
+NeutrinoTelescopeBase = "1"
