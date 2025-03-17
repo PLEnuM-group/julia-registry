@@ -1,2 +1,12 @@
-[0]
+["0 - 0.1"]
 julia = "1.10.0-1"
+
+["0.2 - 0"]
+CherenkovMediumBase = "1"
+DiffResults = "1.1.0 - 1"
+ForwardDiff = "0.10.36 - 0.10"
+NaNMath = "1.0.2 - 1"
+NeutrinoTelescopeBase = "1"
+PhotonPropagation = "0.9"
+Rotations = "1.7.1 - 1"
+StaticArrays = "1.9.7 - 1"
