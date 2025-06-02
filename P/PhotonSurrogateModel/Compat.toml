@@ -10,3 +10,6 @@ NeutrinoTelescopeBase = "1"
 PhotonPropagation = "0.9"
 Rotations = "1.7.1 - 1"
 StaticArrays = "1.9.7 - 1"
+
+["0.2.1 - 0"]
+PreallocationTools = "0.4.27 - 0.4"
